@@ -48,7 +48,7 @@ SourceArt/**/*.tga
 
 # Binary Files
 Binaries/*
-Plugins/**/Binaries/*
+# Plugins/**/Binaries/*
 
 # Builds
 Build/*
@@ -73,3 +73,4 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+UpgradeLog.htm
